@@ -1,0 +1,23 @@
+* { padding: 0; font-size: 12pt; }
+body { font-family: 'Archivo', 'Source Sans Pro', sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Lexend', 'Source Sans Pro', sans-serif; }
+.bg-icraf-orange { background-color: #F26A21 !important; }
+.bg-icraf-green { background-color: #066155 !important; }
+.icraf-orange { color: #F26A21 !important; }
+.icraf-green { color: #066155 !important; }
+.txt-result-green { background-color: #066155; color: white; font-weight: bold; padding: 3px; }
+.txt-result-orange { background-color: #F26A21; color: white; font-weight: bold; padding: 3px; }
+.table td, .table th { padding: 0.25rem; }
+#address { margin: 10px 10px 20px 10px; padding: 5px 10px 10px 10px; }
+.address-in { margin-left: 20px; }
+.instances-logo { max-height: 40px; }
+
+/* ref: https://ourcodeworld.com/articles/read/687/how-to-configure-a-header-and-footer-in-dompdf */
+footer {
+    position: fixed; 
+    bottom: -0.5cm; 
+    left: 0cm; 
+    right: 0cm;
+    height: 0.8cm;
+    text-align: right;
+}
