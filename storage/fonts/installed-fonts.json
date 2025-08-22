@@ -1,0 +1,26 @@
+{
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_4ba4431193b0ca5d66d2e38c8f7ae087"
+    },
+    "font awesome 5 free": {
+        "normal": "D:\\laravel_apps\\icraf-land4lives-landaccess\\storage\\fonts\/font_awesome_5_free_normal_348f88750e3f03f77007291e5aeeb463",
+        "900": "font_awesome_5_free_900_394e70d69b7590d51d581ec286a454a1"
+    },
+    "source sans pro": {
+        "italic": "D:\\laravel_apps\\icraf-land4lives-landaccess\\storage\\fonts\/source_sans_pro_italic_af17c8440088929b38c5cfe930d7915d",
+        "300": "D:\\laravel_apps\\icraf-land4lives-landaccess\\storage\\fonts\/source_sans_pro_300_c6077ec99d149827fee17e2ea27788e4",
+        "normal": "D:\\laravel_apps\\icraf-land4lives-landaccess\\storage\\fonts\/source_sans_pro_normal_a331146e176a0c94e64a58f063c4f2b5",
+        "bold": "source_sans_pro_bold_cfebb083c1921633494989255bc500d0"
+    },
+    "archivo": {
+        "italic": "D:\\laravel_apps\\icraf-land4lives-landaccess\\storage\\fonts\/archivo_italic_ffd7f9a1840657702c92acd281bed249",
+        "300": "D:\\laravel_apps\\icraf-land4lives-landaccess\\storage\\fonts\/archivo_300_62250936854eb22709b75a2eef4f788c",
+        "normal": "D:\\laravel_apps\\icraf-land4lives-landaccess\\storage\\fonts\/archivo_normal_9b2a52c85cc3fb035c983d0182b2ebb0",
+        "bold": "archivo_bold_05ff16b1c17bee51b40dcf35df08b71c"
+    },
+    "lexend": {
+        "300": "D:\\laravel_apps\\icraf-land4lives-landaccess\\storage\\fonts\/lexend_300_82d2e164e153b7d95c0ff4aa325694df",
+        "normal": "D:\\laravel_apps\\icraf-land4lives-landaccess\\storage\\fonts\/lexend_normal_4b5ed94fbf5f2c466b869f036d6971ad",
+        "bold": "lexend_bold_64a82ea2d347736219f91e11b197af18"
+    }
+}
